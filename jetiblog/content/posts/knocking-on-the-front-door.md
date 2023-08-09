@@ -3,6 +3,7 @@ title: "Knocking on the Front Door (client side desync attack on Azure CDN)"
 date: 2023-07-31T23:26:05+02:00
 author: "Jeti"
 authorTwitter: "0xJeti"
+imageTwitter: "/frontdoor-cover.png"
 ---
 
 A few months ago, I embarked on a security bug hunt within the scope of a private program available through the Intigriti platform. During this endeavor, I encountered an intriguing anomaly while analyzing the redirect from HTTP to HTTPS traffic on a particular host.

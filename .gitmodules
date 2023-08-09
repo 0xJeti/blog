@@ -1,0 +1,4 @@
+[submodule "jetiblog/public"]
+	path = jetiblog/public
+	url = https://github.com/0xJeti/0xJeti.github.io.git
+	branch = main

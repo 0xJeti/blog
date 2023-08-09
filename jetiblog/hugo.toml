@@ -3,6 +3,7 @@ languageCode = 'en-us'
 title = "Jeti's blog"
 theme = "terminal"
 GoogleAnalytics = "G-V8SVB9W8QN"
+cover = "x"
 
 [params]
 author = 'Jeti'
@@ -18,4 +19,5 @@ Toc = true
   # do not include @
   creator = "0xJeti"
   site = "Jeti's Blog"
+  image = "x"
 
