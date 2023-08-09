@@ -1,0 +1,21 @@
+baseURL = 'https://blog.jeti.pw/'
+languageCode = 'en-us'
+title = "Jeti's blog"
+theme = "terminal"
+GoogleAnalytics = "G-V8SVB9W8QN"
+
+[params]
+author = 'Jeti'
+description = 'Just a placeholder for my random security-related stuff'
+avatar = "/jeti-avatar.jpg"
+themeColor = "green"
+Toc = true
+# Google Analytics 4
+
+[params.twitter]
+  # set Twitter handles for Twitter cards
+  # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
+  # do not include @
+  creator = "0xJeti"
+  site = "Jeti's Blog"
+
