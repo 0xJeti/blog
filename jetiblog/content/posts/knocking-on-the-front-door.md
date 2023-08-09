@@ -125,7 +125,7 @@ location = 'http://azure-victim.jeti.pw/'
 ```
 
 Victim's browser will send another GET request (most of the time browser will re-use the  same connection). Both requests will look like this:
-![[frontdoor-completed-request.png]]
+![Frontdoor complete request](/frontdoor-completed-request.png)
 Server received it's 200 bytes of data and sent POST request to http://azure-attacker.jeti.pw/logger with following **data**:
 ```http
 GET / HTTP/1.1
