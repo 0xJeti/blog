@@ -159,3 +159,9 @@ But luckily for an attacker, the browser already have a response waiting in a co
 
 As the attacker can redirect a victim to any Front Door powered website and forge the response I think this can be called a "Universal" XSS :)
 
+# Timeline
+|Date|Action|
+|--|--|
+|8 May 2023|Reported to Microsoft|
+|27 June 2023|Vulnerability fixed|
+|5 July 2023| Bounty paid ($7500)|
